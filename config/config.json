@@ -1,0 +1,11 @@
+{
+    "model_name": "UNet",
+    "hidden_size": 768,
+    "n_classes": 10,
+    "batch_size": 128,
+    "opt_name": "adam",
+    "lr": 1e-4,
+    "early_stopping": 10,
+    "p": 0.5,
+    "num_epochs": 5
+}
